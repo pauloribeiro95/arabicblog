@@ -1,10 +1,10 @@
 ############################ Default configuration #########################
 baseURL = "https://demo.gethugothemes.com/northendlab-light/"
 languageCode = "en-us"
-# site title 
+# site title
 title = "Northendlab | Blog Template"
 # theme
-theme = "northendlab-light"
+## theme = "northendlab-light"
 # post pagination
 paginate = "5"
 # post excerpt
