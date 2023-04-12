@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "/"
+baseURL = "https://arabedozero.netlify.com"
 languageCode = "pt-BR"
 # site title
 title = "Árabe do Zero | O melhor site para aprender árabe"
